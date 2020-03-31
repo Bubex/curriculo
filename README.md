@@ -48,4 +48,4 @@ Tecnologias: NodeJS, React, ReactNative, PHP, Laravel, Javascript (+ jQuery), HT
 
 ## Participação em Eventos
 * (Hackaton) MegaHack SHAWEE / Desafio SEBRAE - [Undertake SEBRAE](https://github.com/Bubex/sebrae-app)  
-[Certificado]()
+[Certificado](https://github.com/Bubex/curriculo/blob/master/certificados/Certificado%20MegaHack.pdf)
