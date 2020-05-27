@@ -45,6 +45,7 @@ Tecnologias: NodeJS, React, ReactNative, PHP, Laravel, Javascript (+ jQuery), HT
 * [DevRadar](https://github.com/Bubex/devradar)
 * [Be The Hero](https://github.com/Bubex/be-the-hero)
 * [Undertake SEBRAE](https://github.com/Bubex/sebrae-app)
+* [Twitter Replica](https://bubex-twitter-frontend.herokuapp.com)
 
 ## Participação em Eventos
 * (Hackaton) MegaHack SHAWEE / Desafio SEBRAE - [Undertake SEBRAE](https://github.com/Bubex/sebrae-app)  
