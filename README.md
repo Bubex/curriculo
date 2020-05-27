@@ -31,8 +31,8 @@ MySQL, MongoDB.
 Unity3D (C#).
 
 ## Experiência Profissional
-* Agência Singular:  
-Cargo: Estagiário de Programação (2 meses)  
+* Agência Singular (2 meses):  
+Cargo: Estagiário de Programação
 Atribuições: Manutenção e criação de websites e sistemas em web. Implementação de novas funcionalidades.  
 Tecnologias: PHP, Javascript (+ jQuery), HTML5, CSS3 (+ Bootstrap 3 e 4).  
 
