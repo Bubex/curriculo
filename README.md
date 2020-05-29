@@ -25,7 +25,7 @@ React.
 ReactNative.
 
 * Banco de Dados:  
-MySQL, MongoDB.
+MySQL, SQLite, PostgreSQL, MongoDB, Firebase.
 
 * Game Engine:  
 Unity3D (C#).
