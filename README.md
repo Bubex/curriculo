@@ -39,7 +39,7 @@ Tecnologias: PHP, Javascript (+ jQuery), HTML5, CSS3 (+ Bootstrap 3 e 4).
 * Agência Tática Web (atual):  
 Cargo: Programador Pleno  
 Atribuições: Manutenção e criação de websites e sistemas em web. Implementação de novas funcionalidades.  
-Tecnologias: NodeJS, React, ReactNative, PHP, Laravel, Javascript (+ jQuery), HTML5, CSS3 (+ Bootstrap 3 e 4).  
+Tecnologias: NodeJS, React, ReactNative, PHP.  
 
 ## Projetos Públicos
 * [DevRadar](https://github.com/Bubex/devradar)
