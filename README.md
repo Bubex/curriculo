@@ -31,12 +31,12 @@ MySQL, SQLite, PostgreSQL, MongoDB, Firebase.
 Unity3D (C#).
 
 ## Experiência Profissional
-* Agência Singular (2 meses):  
+* Agência Singular (jul/19 - set/19):  
 Cargo: Estagiário de Programação
 Atribuições: Manutenção e criação de websites e sistemas em web. Implementação de novas funcionalidades.  
 Tecnologias: PHP, Javascript (+ jQuery), HTML5, CSS3 (+ Bootstrap 3 e 4).  
 
-* Agência Tática Web (atual):  
+* Agência Tática Web (set/19 - atualmente):  
 Cargo: Programador Pleno  
 Atribuições: Manutenção e criação de websites e sistemas em web. Implementação de novas funcionalidades.  
 Tecnologias: NodeJS, React, ReactNative, PHP.  
