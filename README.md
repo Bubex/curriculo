@@ -15,29 +15,29 @@ Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro (IFRJ)
 Centro Universitário Geraldo Di Biase (UGB)
 
 ## Conhecimentos Técnicos
-* Backend:  
+* <strong>Backend:</strong>  
 NodeJS, PHP, Laravel.  
  
-* Frontend:  
+* <strong>Frontend:</strong>  
 React.  
  
-* Mobile:  
+* <strong>Mobile:</strong>  
 ReactNative.
 
-* Banco de Dados:  
+* <strong>Banco de Dados:</strong>  
 MySQL, SQLite, PostgreSQL, MongoDB, Firebase.
 
-* Game Engine:  
+* <strong>Game Engine:</strong>  
 Unity3D (C#).
 
 ## Experiência Profissional
-* Agência Singular (jul/19 - set/19):  
-Cargo: Estagiário de Programação
+* <strong>Agência Singular</strong> (jul/19 - set/19):  
+Cargo: <strong>Estagiário de Programação</strong>  
 Atribuições: Manutenção e criação de websites e sistemas em web. Implementação de novas funcionalidades.  
 Tecnologias: PHP, Javascript (+ jQuery), HTML5, CSS3 (+ Bootstrap 3 e 4).  
 
-* Agência Tática Web (set/19 - atualmente):  
-Cargo: Programador Pleno  
+* <strong>Agência Tática Web</strong> (set/19 - atualmente):  
+Cargo: <strong>Programador Pleno</strong>  
 Atribuições: Manutenção e criação de websites e sistemas em web. Implementação de novas funcionalidades.  
 Tecnologias: NodeJS, React, ReactNative, PHP.  
 
