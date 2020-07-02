@@ -16,13 +16,13 @@ Centro Universitário Geraldo Di Biase (UGB)
 
 ## Conhecimentos Técnicos
 * <strong>Backend:</strong>  
-NodeJS, PHP, Laravel.  
+NodeJS, PHP (+Laravel).  
  
 * <strong>Frontend:</strong>  
-React.  
+React. Conhecedor de: Vue.
  
 * <strong>Mobile:</strong>  
-ReactNative.
+ReactNative. Conhecedor de: Flutter.
 
 * <strong>Banco de Dados:</strong>  
 MySQL, SQLite, PostgreSQL, MongoDB, Firebase.
