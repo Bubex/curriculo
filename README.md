@@ -30,6 +30,10 @@ MySQL, SQLite, PostgreSQL, MongoDB, Firebase.
 * <strong>Game Engine:</strong>  
 Unity3D (C#).
 
+## Cursos
+* <strong>Laravel Developer - UpInside</strong>
+* <strong>CSS Produtivo com SASS - UpInside</strong>
+
 ## Experiência Profissional
 * <strong>Agência Singular</strong> (jul/19 - set/19):  
 Cargo: <strong>Estagiário de Programação</strong>  
