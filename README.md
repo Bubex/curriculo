@@ -33,6 +33,7 @@ Unity3D (C#).
 ## Cursos
 * <strong>Laravel Developer - UpInside</strong>
 * <strong>CSS Produtivo com SASS - UpInside</strong>
+* <strong>Omnistack 9, 10 e 11 - Rocketseat</strong>
 
 ## Experiência Profissional
 * <strong>Agência Singular</strong> (jul/19 - set/19):  
