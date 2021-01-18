@@ -38,12 +38,12 @@ Unity3D (C#).
 ## Experiência Profissional
 * <strong>Agência Singular</strong> (jul/19 - set/19):  
 Cargo: <strong>Estagiário de Programação</strong>  
-Atribuições: Manutenção e criação de websites e sistemas web. 
+Atribuições: Manutenção e criação de websites e sistemas web.  
 Tecnologias: PHP, Javascript (+ jQuery), HTML5, CSS3 (+ Bootstrap 3 e 4).  
 
 * <strong>Agência Tática Web</strong> (set/19 - dez/20):  
 Cargo: <strong>Desenvolvedor Júnior</strong>  
-Atribuições: Manutenção e criação de websites e sistemas web. 
+Atribuições: Manutenção e criação de websites e sistemas web.  
 Tecnologias: PHP, Javascript (+ jQuery), HTML5, CSS3 (+ Bootstrap 3 e 4), React, Laravel. 
 
 * <strong>Athenas 3000</strong> (dez/20 - atualmente):  
