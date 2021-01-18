@@ -43,7 +43,7 @@ Tecnologias: PHP, Javascript (+ jQuery), HTML5, CSS3 (+ Bootstrap 3 e 4).
 
 * <strong>Agência Tática Web</strong> (set/19 - dez/20):  
 Cargo: <strong>Desenvolvedor Júnior</strong>  
-Atribuições: Manutenção e criação de websites e sistemas web.  
+Atribuições: Manutenção e criação de websites e sistemas web. Liderança de equipe.  
 Tecnologias: PHP, Javascript (+ jQuery), HTML5, CSS3 (+ Bootstrap 3 e 4), React, Laravel. 
 
 * <strong>Athenas 3000</strong> (dez/20 - atualmente):  
