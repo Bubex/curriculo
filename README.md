@@ -49,7 +49,7 @@ Tecnologias: PHP, Javascript (+ jQuery), HTML5, CSS3 (+ Bootstrap 3 e 4), React,
 * <strong>Athenas Tecnologia em Softwares</strong> (dez/20 - atualmente):  
 Cargo: <strong>Desenvolvedor Pleno</strong>  
 Atribuições: Criar e dar manutenção em projetos de sistemas web.  
-Tecnologias: PHP (Cake/Slim) e React.
+Tecnologias: PHP (Cake/Slim/Laravel) e React.
 
 ## Portfolio Sites
 * [Café Faraó](https://cafefarao.com.br/) - [Tecnomedi](https://www.institucional.tecnomedi.com.br/) - [ForceCar Blindados](https://www.forcecarblindados.com.br/) - [Trivelato](https://www.trivelato.com.br/sitenovo/) - [Rações Pilotos](http://racoespilotos.com.br/) - [Divina Pizza](https://www.taticaweb.com.br/site/divinapizza/) - [Torre Segurança](https://torreseguranca.com.br/) - [MBM Metalúrgica](https://www.mbmmetalurgica.com.br/) - [Oiticica Ferro](https://www.oiticicaferro.com.br/) - [Oiticica Corte](https://www.oiticicacorte.com.br/) - [Ricardo Guaçuí Automóveis](http://www.taticaweb.com.br/site/ricardoguacui/) - [Tal Pneus](https://www.talpneus.com.br/sitenovo/) - [Lucky's Burguer](https://luckysburguer.com.br/) - [Doces Angel](https://docesangel.com.br/) - [Ayane Ferreira Advocacia](https://ayaneferreira.adv.br/) - [Agência X6](https://agenciax6.com.br/)
