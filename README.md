@@ -46,7 +46,7 @@ Cargo: <strong>Desenvolvedor Júnior/Pleno</strong>
 Atribuições: Manutenção e criação de websites e sistemas web. Liderança de equipe.  
 Tecnologias: PHP, Javascript (+ jQuery), HTML5, CSS3 (+ Bootstrap 3 e 4), React, Laravel. 
 
-* <strong>Athenas 3000</strong> (dez/20 - atualmente):  
+* <strong>Athenas Tecnologia em Softwares</strong> (dez/20 - atualmente):  
 Cargo: <strong>Desenvolvedor Pleno</strong>  
 Atribuições: Criar e dar manutenção em projetos de sistemas web.  
 Tecnologias: PHP (Cake/Slim) e React.
