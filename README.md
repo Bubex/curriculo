@@ -33,7 +33,7 @@ Unity3D (C#).
 ## Cursos
 * <strong>Laravel Developer - UpInside</strong>
 * <strong>CSS Produtivo com SASS - UpInside</strong>
-* <strong>Omnistack 9, 10 e 11 - Rocketseat</strong>
+* <strong>Omnistack 9, 10 e 11 [React, NodeJS e React Native] - Rocketseat</strong>
 
 ## Experiência Profissional
 * <strong>Agência Singular</strong> (jul/19 - set/19):  
@@ -58,10 +58,10 @@ Tecnologias: PHP (Cake/Slim) e React.
 * Favor, solicitar por e-mail.
 
 ## Projetos Públicos
-* [DevRadar](https://github.com/Bubex/devradar)
-* [Be The Hero](https://github.com/Bubex/be-the-hero)
-* [Undertake SEBRAE](https://github.com/Bubex/sebrae-app)
-* [Twitter Replica](https://bubex-twitter-frontend.herokuapp.com)
+* [DevRadar](https://github.com/Bubex/devradar) (React, NodeJS, React Native)
+* [Be The Hero](https://github.com/Bubex/be-the-hero) (React, NodeJS, React Native)
+* [Undertake SEBRAE](https://github.com/Bubex/sebrae-app) (React, NodeJS, React Native)
+* [Twitter Replica](https://bubex-twitter-frontend.herokuapp.com) (React, NodeJS)
 
 ## Participação em Eventos
 * (Hackaton) MegaHack SHAWEE / Desafio SEBRAE - [Undertake SEBRAE](https://github.com/Bubex/sebrae-app)  
