@@ -34,6 +34,7 @@ Unity3D (C#).
 * <strong>Laravel Developer - UpInside</strong>
 * <strong>CSS Produtivo com SASS - UpInside</strong>
 * <strong>Omnistack 9, 10 e 11 [React, NodeJS e React Native] - Rocketseat</strong>
+* <strong>NLW5 [React Native e Flutter] - Rocketseat</strong>
 
 ## Experiência Profissional
 * <strong>Agência Singular</strong> (jul/19 - set/19):  
