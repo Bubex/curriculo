@@ -15,6 +15,9 @@ Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro (IFRJ)
 Centro Universitário Geraldo Di Biase (UGB)
 
 ## Conhecimentos Técnicos
+
+* <strong>Amazon Web Services</strong>   
+
 * <strong>Backend:</strong>  
 NodeJS, PHP (+Laravel).  
  
@@ -39,18 +42,22 @@ Unity3D (C#).
 ## Experiência Profissional
 * <strong>Agência Singular</strong> (jul/19 - set/19):  
 Cargo: <strong>Estagiário de Programação</strong>  
-Atribuições: Manutenção e criação de websites e sistemas web.  
 Tecnologias: PHP, Javascript (+ jQuery), HTML5, CSS3 (+ Bootstrap 3 e 4).  
 
 * <strong>Agência Tática Web</strong> (set/19 - dez/20):  
 Cargo: <strong>Desenvolvedor Júnior/Pleno</strong>  
-Atribuições: Manutenção e criação de websites e sistemas web. Liderança de equipe.  
 Tecnologias: PHP, Javascript (+ jQuery), HTML5, CSS3 (+ Bootstrap 3 e 4), React, Laravel. 
 
-* <strong>Athenas Tecnologia em Softwares</strong> (dez/20 - atualmente):  
+* <strong>Athenas Tecnologia em Softwares</strong> (dez/20 - jun/21):  
 Cargo: <strong>Desenvolvedor Pleno</strong>  
-Atribuições: Criar e dar manutenção em projetos de sistemas web.  
 Tecnologias: PHP (Cake/Slim/Laravel) e React.
+
+* <strong>Click Fiscal</strong> (jun/21 - atualmente):  
+Cargo: <strong>Desenvolvedor Pleno</strong>  
+Tecnologias: AWS, Node, React.
+
+* <strong>Nós Fábrica de Conteúdo</strong> (jun/21 - atualmente):  
+Cargo: <strong>Diretor de Tecnologia</strong>  
 
 ## Portfolio Sites
 * [Tecnomedi](https://www.institucional.tecnomedi.com.br/) - [Tal Pneus](https://www.talpneus.com.br/) - [Trivelato](https://www.trivelato.com.br/) - [Rações Pilotos](http://racoespilotos.com.br/) - [Divina Pizza](https://www.taticaweb.com.br/site/divinapizza/) - [Torre Segurança](https://torreseguranca.com.br/) - [MBM Metalúrgica](https://www.mbmmetalurgica.com.br/) - [Oiticica Ferro](https://www.oiticicaferro.com.br/) - [Oiticica Corte](https://www.oiticicacorte.com.br/) - [Café Faraó](https://cafefarao.com.br/) - [Ricardo Guaçuí Automóveis](http://www.taticaweb.com.br/site/ricardoguacui/) - [Lucky's Burguer](https://luckysburguer.com.br/) - [Doces Angel](https://docesangel.com.br/) - [Ayane Ferreira Advocacia](https://ayaneferreira.adv.br/) - [Agência X6](https://agenciax6.com.br/)
