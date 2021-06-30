@@ -53,7 +53,7 @@ Cargo: <strong>Desenvolvedor Pleno</strong>
 Tecnologias: PHP (Cake/Slim/Laravel) e React.
 
 * <strong>Click Fiscal</strong> (jun/21 - atualmente):  
-Cargo: <strong>Desenvolvedor Pleno</strong>  
+Cargo: <strong>Desenvolvedor Sênior</strong>  
 Tecnologias: AWS, Node, React.
 
 * <strong>Nós Fábrica de Conteúdo</strong> (jun/21 - atualmente):  
