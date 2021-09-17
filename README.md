@@ -19,7 +19,7 @@ Centro Universitário Geraldo Di Biase (UGB)
 * <strong>Amazon Web Services</strong>   
 
 * <strong>Backend:</strong>  
-NodeJS, PHP (+Laravel).  
+Serverless, NodeJS, PHP (+Laravel).  
  
 * <strong>Frontend:</strong>  
 React. Conhecedor de: Vue.
@@ -28,7 +28,7 @@ React. Conhecedor de: Vue.
 ReactNative. Conhecedor de: Flutter.
 
 * <strong>Banco de Dados:</strong>  
-MySQL, SQLite, PostgreSQL, MongoDB, Firebase.
+DynamoDB, MySQL, SQLite, PostgreSQL, MongoDB, Firebase.
 
 * <strong>Game Engine:</strong>  
 Unity3D (C#).
@@ -55,9 +55,6 @@ Tecnologias: PHP (Cake/Slim/Laravel) e React.
 * <strong>Click Fiscal</strong> (jun/21 - atualmente):  
 Cargo: <strong>Desenvolvedor Sênior</strong>  
 Tecnologias: AWS, Node, React.
-
-* <strong>Nós Fábrica de Conteúdo</strong> (jun/21 - atualmente):  
-Cargo: <strong>Diretor de Tecnologia</strong>  
 
 ## Portfolio Sites
 * [Tecnomedi](https://www.institucional.tecnomedi.com.br/) - [Tal Pneus](https://www.talpneus.com.br/) - [Trivelato](https://www.trivelato.com.br/) - [Rações Pilotos](http://racoespilotos.com.br/) - [Divina Pizza](https://www.taticaweb.com.br/site/divinapizza/) - [Torre Segurança](https://torreseguranca.com.br/) - [MBM Metalúrgica](https://www.mbmmetalurgica.com.br/) - [Oiticica Ferro](https://www.oiticicaferro.com.br/) - [Oiticica Corte](https://www.oiticicacorte.com.br/) - [Café Faraó](https://cafefarao.com.br/) - [Ricardo Guaçuí Automóveis](http://www.taticaweb.com.br/site/ricardoguacui/) - [Lucky's Burguer](https://luckysburguer.com.br/) - [Doces Angel](https://docesangel.com.br/) - [Ayane Ferreira Advocacia](https://ayaneferreira.adv.br/) - [Agência X6](https://agenciax6.com.br/)
