@@ -39,6 +39,7 @@ Unity3D (C#).
 * <strong>CSS Produtivo com SASS - UpInside</strong>
 * <strong>Omnistack 9, 10 e 11 [React, NodeJS e React Native] - Rocketseat</strong>
 * <strong>NLW5 [React Native e Flutter] - Rocketseat</strong>
+* <strong>Formação Ignite [React, NodeJS e React Native] - Rocketseat</strong>
 
 ## Experiência Profissional
 * <strong>Agência Singular</strong> (jul/19 - set/19):  
