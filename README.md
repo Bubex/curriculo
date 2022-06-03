@@ -16,7 +16,8 @@ Centro Universitário Geraldo Di Biase (UGB)
 
 ## Conhecimentos Técnicos
 
-* <strong>Amazon Web Services</strong>   
+* <strong>Amazon Web Services:</strong>  
+IAM, Cognito, Lambda Functions, API Gateway, S3, DynamoDB, EC2, CloudFormation, etc...
 
 * <strong>Backend:</strong>  
 Serverless, NodeJS, PHP (+Laravel).  
