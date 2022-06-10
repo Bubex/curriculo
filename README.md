@@ -3,7 +3,7 @@ Desenvolvedor Fullstack Sênior
 
 
 🏠 Volta Redonda- RJ  
-&nbsp;📱&nbsp; +55 24 97402-5201  
+📱&nbsp; +55 24 97402-5201  
 ✉️ marlonmcferreira@gmail.com  
 
 ## Formação
