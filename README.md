@@ -14,25 +14,8 @@ Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro (IFRJ)
 * Ensino Superior Cursando – Bacharelado em Sistemas de Informação  
 Centro Universitário Geraldo Di Biase (UGB)
 
-## Conhecimentos Técnicos
-
-* <strong>Amazon Web Services:</strong>  
-IAM, Cognito, Lambda Functions, API Gateway, S3, DynamoDB, EC2, CloudFormation, etc...
-
-* <strong>Backend:</strong>  
-Serverless, NodeJS, PHP (+Laravel).  
- 
-* <strong>Frontend:</strong>  
-React. Conhecedor de: Vue.
- 
-* <strong>Mobile:</strong>  
-ReactNative. Conhecedor de: Flutter.
-
-* <strong>Banco de Dados:</strong>  
-DynamoDB, MySQL, SQLite, PostgreSQL, MongoDB, Firebase.
-
-* <strong>Game Engine:</strong>  
-Unity3D (C#).
+## Conhecimentos Técnicos:
+* [Aqui](https://github.com/Bubex/Bubex) 
 
 ## Cursos
 * <strong>Laravel Developer - UpInside</strong>
