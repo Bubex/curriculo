@@ -53,3 +53,5 @@ Tecnologias: AWS, Node, React.
 ## Participação em Eventos
 * (Hackaton) MegaHack SHAWEE / Desafio SEBRAE - [Undertake SEBRAE](https://github.com/Bubex/sebrae-app)  
 [Certificado](https://github.com/Bubex/curriculo/blob/master/certificados/Certificado%20MegaHack.pdf)
+* Cibercrimes - AKAMAI
+[Certificado](https://github.com/Bubex/curriculo/blob/master/certificados/Cibercrimes%20-%20Akamai.pdf)
