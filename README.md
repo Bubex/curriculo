@@ -1,5 +1,5 @@
 # Marlon Ferreira
-Desenvolvedor Fullstack Sênior
+CTO | Tech Lead | Especialista em Tecnologia
 
 
 🏠 Volta Redonda- RJ  
