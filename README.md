@@ -25,21 +25,30 @@ Centro Universitário Geraldo Di Biase (UGB)
 * <strong>Formação Ignite [React, NodeJS e React Native] - Rocketseat</strong>
 
 ## Experiência Profissional
-* <strong>Agência Singular</strong> (jul/19 - set/19):  
-Cargo: <strong>Estagiário de Programação</strong>  
-Tecnologias: PHP, Javascript (+ jQuery), HTML5, CSS3 (+ Bootstrap 3 e 4).  
 
-* <strong>Agência Tática Web</strong> (set/19 - dez/20):  
-Cargo: <strong>Desenvolvedor Júnior/Pleno</strong>  
-Tecnologias: PHP, Javascript (+ jQuery), HTML5, CSS3 (+ Bootstrap 3 e 4), React, Laravel. 
+* <strong>AdvLabs</strong> (out/23 - atualmente):  
+Cargo: <strong>CTO</strong>  
+Tecnologias: AWS, GCP, Node (NestJS), React (NextJS), RabbitMQ, Docker...
+
+* <strong>Click Fiscal</strong> (out/22 - out/23):  
+Cargo: <strong>Tech Lead</strong>  
+Tecnologias: AWS, Node, React.
+
+* <strong>Click Fiscal</strong> (jun/21 - out/22):  
+Cargo: <strong>Desenvolvedor Sênior</strong>  
+Tecnologias: AWS, Node, React.
 
 * <strong>Athenas Tecnologia em Softwares</strong> (dez/20 - jun/21):  
 Cargo: <strong>Desenvolvedor Pleno</strong>  
 Tecnologias: PHP (Cake/Slim/Laravel) e React.
 
-* <strong>Click Fiscal</strong> (jun/21 - atualmente):  
-Cargo: <strong>Desenvolvedor Sênior</strong>  
-Tecnologias: AWS, Node, React.
+* <strong>Agência Tática Web</strong> (set/19 - dez/20):  
+Cargo: <strong>Desenvolvedor Júnior/Pleno</strong>  
+Tecnologias: PHP, Javascript (+ jQuery), HTML5, CSS3 (+ Bootstrap 3 e 4), React, Laravel. 
+
+* <strong>Agência Singular</strong> (jul/19 - set/19):  
+Cargo: <strong>Estagiário de Programação</strong>  
+Tecnologias: PHP, Javascript (+ jQuery), HTML5, CSS3 (+ Bootstrap 3 e 4).  
 
 ## Portfolio Sites e Sistemas
 * Favor, solicitar.
